@@ -2,7 +2,7 @@ The processed dataset has been updated.
 
 code in renewing and coming soon!
 The dataset is below!
- welcome to answer me!
+ welcome!
 
 Synthetic datasets from CamVid and Cityscapes：
 
